@@ -3,3 +3,4 @@ numpy==1.19.5
 opencv-python==4.6.0.66
 pycparser==2.21
 six==1.16.0
+mediapipe==0.8.11
